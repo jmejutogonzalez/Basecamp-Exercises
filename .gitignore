@@ -10,3 +10,4 @@ key.env
 # Local environments / cruft
 .venv/
 .ipynb_checkpoints/
+.DS_Store
